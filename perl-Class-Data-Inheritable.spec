@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Data-Inheritable
 Version  : 0.08
-Release  : 4
+Release  : 5
 URL      : http://search.cpan.org/CPAN/authors/id/T/TM/TMTM/Class-Data-Inheritable-0.08.tar.gz
 Source0  : http://search.cpan.org/CPAN/authors/id/T/TM/TMTM/Class-Data-Inheritable-0.08.tar.gz
 Summary  : Inheritable, overridable class data
@@ -64,7 +64,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/site_perl/5.26.0/Class/Data/Inheritable.pm
+/usr/lib/perl5/site_perl/5.26.1/Class/Data/Inheritable.pm
 
 %files doc
 %defattr(-,root,root,-)
