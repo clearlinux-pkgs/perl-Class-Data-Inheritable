@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Data-Inheritable
 Version  : 0.08
-Release  : 16
+Release  : 17
 URL      : http://search.cpan.org/CPAN/authors/id/T/TM/TMTM/Class-Data-Inheritable-0.08.tar.gz
 Source0  : http://search.cpan.org/CPAN/authors/id/T/TM/TMTM/Class-Data-Inheritable-0.08.tar.gz
 Summary  : Inheritable, overridable class data
@@ -23,6 +23,7 @@ use base qw(Class::Data::Inheritable);
 Summary: dev components for the perl-Class-Data-Inheritable package.
 Group: Development
 Provides: perl-Class-Data-Inheritable-devel = %{version}-%{release}
+Requires: perl-Class-Data-Inheritable = %{version}-%{release}
 
 %description dev
 dev components for the perl-Class-Data-Inheritable package.
