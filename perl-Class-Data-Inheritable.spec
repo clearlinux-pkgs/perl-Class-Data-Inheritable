@@ -7,7 +7,7 @@
 #
 Name     : perl-Class-Data-Inheritable
 Version  : 0.10
-Release  : 38
+Release  : 39
 URL      : https://cpan.metacpan.org/authors/id/R/RS/RSHERER/Class-Data-Inheritable-0.10.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RS/RSHERER/Class-Data-Inheritable-0.10.tar.gz
 Summary  : 'Inheritable, overridable class data'
